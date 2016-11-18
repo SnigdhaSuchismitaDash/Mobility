@@ -10,7 +10,7 @@ android {
         targetSdkVersion 17
     }
 
-//comment to check github ------- 2nd check
+//comment to check github ------- 2nd check----3rd check
 
     buildTypes {
         release {
