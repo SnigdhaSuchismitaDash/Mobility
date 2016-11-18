@@ -10,6 +10,8 @@ android {
         targetSdkVersion 17
     }
 
+//comment to check github
+
     buildTypes {
         release {
             minifyEnabled false
