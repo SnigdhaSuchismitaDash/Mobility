@@ -10,7 +10,7 @@ android {
         targetSdkVersion 17
     }
 
-//comment to check ---1st time
+//comment to check ---2nd time
 
     buildTypes {
         release {
