@@ -7,7 +7,7 @@ Demo of app exercises for Intro to Android
 <img src="http://i.imgur.com/VJWFW9Q.png" width="250" />
 
 Sample Listing:
- - Chapter 0: For those who do not do anything
+ - Chapter 0: For those who do not do anything 1st time
  - Chapter 1: App Fundamentals
    - Basic TextView
  - Chapter 2: User Interface
