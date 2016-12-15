@@ -8,6 +8,13 @@ android {
         applicationId "codepath.apps.Myapps"
         minSdkVersion 8
         targetSdkVersion 17
+        signingConfigs {
+          release {
+                storeFile file("KeyPath.jks")
+                storePassword "Devine@2016"
+                keyAlias "KeyPath"
+                keyPassword "Devine@2016"}}
+                
     }
 
 //comment to check ---2nd time---3rd Time---4th  time
